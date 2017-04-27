@@ -1,2 +1,2 @@
 # nagios-rabbitmqsender
-Send your Nagios notifications to RabbitMQ
+Send your Nagios XI notifications to RabbitMQ
